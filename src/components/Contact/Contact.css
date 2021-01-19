@@ -1,0 +1,15 @@
+#formContainer {
+  max-width: 600px;
+  margin: 0 auto;
+}
+#formHeading {
+  font-size: 2em;
+  font-weight: 100;
+  letter-spacing: 1px;
+  padding-bottom: 15px;
+}
+.grayRow {
+  padding: 15px 0 25px;
+  margin: 0;
+  background-color: #111;
+}

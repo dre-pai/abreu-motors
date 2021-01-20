@@ -5,7 +5,6 @@ import Inventory from '../Inventory/Inventory'
 import Detailing from '../Detailing/Detailing';
 import About from '../About/About';
 import Contact from '../Contact/Contact';
-import Financing from '../Financing/Financing';
 
 export default class Routes extends React.Component {
   render() {
@@ -16,7 +15,6 @@ export default class Routes extends React.Component {
         <Route path="/detailing" component={Detailing} />
         <Route path="/about" component={About} />
         <Route path="/contact" component={Contact} />
-        <Route path="/financing" component={Financing} />
       </Switch>
     );
   }

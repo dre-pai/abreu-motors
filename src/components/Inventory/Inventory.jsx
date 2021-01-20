@@ -1,5 +1,4 @@
 import React from 'react';
-import { Row, Col } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faSpinner } from '@fortawesome/free-solid-svg-icons'
 import './Inventory.css';
@@ -24,7 +23,7 @@ class Inventory extends React.Component {
       <div id="inventory-page">
         <div id="loading"><FontAwesomeIcon className="link-icon fa-spin" icon={faSpinner} />Loading...</div>
         <div id="inventory-container" style={{visibility: 'hidden'}}>
-          <iframe id="inventory" scrolling="no" seamless="seamless" src="https://clients.automanager.com/020310/view-inventory?Framed=1" width="100%" ></iframe>
+          <iframe title="Inventory" id="inventory" scrolling="no" seamless="seamless" src="https://clients.automanager.com/020310/view-inventory?Framed=1" width="100%" ></iframe>
         </div>
       </div>
     );

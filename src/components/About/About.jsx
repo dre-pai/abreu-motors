@@ -1,5 +1,6 @@
 import React from 'react';
 import { Row, Col, Image } from 'react-bootstrap';
+import './About.css'
 
 class About extends React.Component {
   render() {
@@ -7,12 +8,12 @@ class About extends React.Component {
       <div className="container-md">
         <Row>
           <Col>
-            <Image src="images/our-vision-2.jpg" fluid />
+            <Image id="about-img-top" src="images/our-vision-2.jpg" fluid />
           </Col>
         </Row>
         <Row>
           <Col>
-            <p>
+            <p className="first-p">
               The 911 Backdate project was inspired by overwhelming feedback
               from our clients expressing a fervent desire to own a fully
               restored and customized classic air-cooled Porsche 911. They are

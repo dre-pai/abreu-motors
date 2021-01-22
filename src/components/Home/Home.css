@@ -18,6 +18,7 @@
   width: 100%;
   text-align: center;
   text-transform: uppercase;
+  font-weight: 600;
 }
 
 #orders-now {
@@ -35,7 +36,8 @@
 
 #orders-now:hover {
   cursor: pointer;
-  background: #b3b3b3;
+  border-color: #eee;
+  background: #eee;
   color: #000;
 }
 

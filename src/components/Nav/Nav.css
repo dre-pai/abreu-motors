@@ -43,7 +43,7 @@ nav.bg-dark {
   }
 
   a.nav-link.active:after {
-    background: #ff9393;
+    background: #fff;
     visibility: visible;
     transform: scaleX(1);
   }

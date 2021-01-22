@@ -6,3 +6,20 @@ footer {
   background: #1f1f1f;
   letter-spacing: 0.1em;
 }
+
+.footer-icons {
+  padding-bottom: 10px;
+}
+
+.footer-icons a {
+  color: #9a9a9a;
+  margin: 5px;
+  transition: all .5s;
+}
+.footer-icons a:hover {
+  color: #eee;
+}
+
+#woodside {
+  height: 35px;
+}

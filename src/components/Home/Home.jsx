@@ -11,7 +11,7 @@ class Home extends React.Component {
         </Row>
         <Row id="orders">
           <a href="/inventory" id="orders-now" className="orders-text">
-            View Inventory
+            Collection
           </a>
         </Row>
       </div>

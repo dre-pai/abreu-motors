@@ -4,13 +4,7 @@
 }
 
 .page-content {
-  justify-content: center;
-}
-
-@media (min-width: 601px) {
-  .mobile-photos {
-    display: none;
-  }
+  align-items: flex-start;
 }
 
 .orders-text {

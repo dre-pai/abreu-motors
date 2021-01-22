@@ -4,7 +4,7 @@
 }
 
 .page-content {
-  align-items: flex-start;
+  justify-content: center;
 }
 
 .orders-text {

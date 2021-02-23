@@ -24,7 +24,8 @@ class Inventory extends React.Component {
       <div id="inventory-page">
         <Row>
           <Col>
-            <Image src="./images/green-911.jpg" fluid></Image>
+            <Image src="./images/green-911.jpg" fluid>
+            </Image>
           </Col>
         </Row>
         <div id="loading"><FontAwesomeIcon className="link-icon fa-spin" icon={faSpinner} />Loading...</div>

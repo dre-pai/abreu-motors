@@ -24,7 +24,7 @@ class Inventory extends React.Component {
       <div id="inventory-page">
         <Row>
           <Col>
-            <Image src="./images/green-911.jpg" fluid>
+            <Image src="./images/911-green.jpg" fluid>
             </Image>
           </Col>
         </Row>

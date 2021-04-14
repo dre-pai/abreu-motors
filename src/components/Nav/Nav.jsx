@@ -54,7 +54,7 @@ export default class Navigation extends React.Component {
           className="container-md"
         >
           <Navbar.Brand as={NavLink} to="/" onClick={this.hideNav}>
-            <Image src="/images/logos/abreu-logo-v2.png" fluid />
+            <Image src="/images/logos/abreu-logo-v3.png" fluid />
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">

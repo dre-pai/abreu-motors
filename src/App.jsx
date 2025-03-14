@@ -27,7 +27,7 @@ function App() {
       >
         <img
           style={{ maxWidth: 1400, width: "100%" }}
-          src="images/ss-profile.jpg"
+          src="images/abreu-car-line.jpg"
         />
       </div>
       <a href="https://www.911backdate.com" target="_blank">

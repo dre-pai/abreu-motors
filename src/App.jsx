@@ -28,15 +28,13 @@ function App() {
         <video    
           playsinline="playsinline"
           autoplay="autoplay"
-          loop="loop"å
+          loop="loop"
           muted="muted" 
           style={{ maxWidth: 1400, width: "100%" }} 
-          src="abreu-video.mp4" 
-        />
-        {/* <img
-       
-          src="images/abreu-car-line.jpg"
-        /> */}
+          src="/abreu-video.mp4" 
+        >
+          <img src="images/abreu-car-line.jpg" />
+        </video>
       </div>
       <a href="https://www.911backdate.com" target="_blank">
         <button

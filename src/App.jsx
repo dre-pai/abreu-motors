@@ -31,7 +31,7 @@ function App() {
           loop="loop"
           muted="muted" 
           style={{ maxWidth: 1400, width: "100%" }} 
-          src="/abreu-video.mp4" 
+          src="videos/abreu-video.mp4" 
         >
           <img src="images/abreu-car-line.jpg" />
         </video>

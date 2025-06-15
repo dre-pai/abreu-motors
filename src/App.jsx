@@ -31,7 +31,7 @@ function App() {
           loop="loop"
           muted="muted" 
           style={{ maxWidth: 1400, width: "100%" }} 
-          src="videos/abreu-video.mp4" 
+          src="https://abreubucket.s3.us-east-1.amazonaws.com/abreu-video.mp4" 
         >
           <img src="images/abreu-car-line.jpg" alt="Abreu Motors cars parked" />
         </video>

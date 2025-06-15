@@ -33,7 +33,7 @@ function App() {
           style={{ maxWidth: 1400, width: "100%" }} 
           src="videos/abreu-video.mp4" 
         >
-          <img src="images/abreu-car-line.jpg" />
+          <img src="images/abreu-car-line.jpg" alt="Abreu Motors cars parked" />
         </video>
       </div>
       <a href="https://www.911backdate.com" target="_blank">
